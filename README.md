@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Douglas Ruan e seu Marowak shiny"/>
+<img src="assets/header.svg" width="100%" alt="Douglas Ruan e seu Shiny Marowak"/>
 
 <img src="assets/dialog.svg" width="100%" alt="DOUGLAS RUAN usou GIT PUSH! É super efetivo!"/>
 
@@ -12,7 +12,7 @@
 
 Fala, treinador! Eu sou o Douglas.
 
-Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase sempre é de madrugada que o código sai melhor. Se me perguntar qual é o Pokémon favorito, a resposta é fácil: Marowak shiny.
+Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase sempre é de madrugada que o código sai melhor. Se me perguntar qual é o Pokémon favorito, a resposta é fácil: Shiny Marowak.
 
 ## ⚔️ Meu Time
 
@@ -40,9 +40,9 @@ Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase s
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/104.gif" height="60" alt="Cubone shiny"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/104.gif" height="60" alt="Shiny Cubone"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/105.gif" height="80" alt="Marowak shiny"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/105.gif" height="80" alt="Shiny Marowak"/>
 
 <sub>Valeu pela visita! Volta sempre.</sub>
 
