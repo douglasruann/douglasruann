@@ -31,9 +31,9 @@ Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase s
 ## 🐍 Um Ekans shiny selvagem está comendo minhas contribuições!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans.svg"/>
-  <img alt="Ekans shiny comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans.svg?v=2"/>
+  <img alt="Ekans shiny comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/douglasruann/douglasruann/output/ekans-dark.svg?v=2"/>
 </picture>
 
 <div align="center">
