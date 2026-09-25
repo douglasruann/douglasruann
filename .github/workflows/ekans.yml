@@ -18,6 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNK_TOKEN || github.token }}
           outputs: |
             dist/ekans-dark.svg?palette=github-dark&color_snake=#dea452&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
             dist/ekans.svg?color_snake=#b48339&color_dots=#ebedf0,#c6e48b,#9cc54a,#6a9c41,#396a00
