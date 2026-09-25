@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/header.svg?v=7" width="100%" alt="Douglas Ruan e seu Shiny Marowak"/>
+<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/header.svg?v=8" width="100%" alt="Douglas Ruan e seu Shiny Marowak"/>
 
-<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/dialog.svg?v=7" width="100%" alt="DOUGLAS RUAN usou GIT PUSH! É super efetivo!"/>
+<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/dialog.svg?v=8" width="100%" alt="DOUGLAS RUAN usou GIT PUSH! É super efetivo!"/>
 
 </div>
 
 ## ◓ Entrada da Pokédex
 
-<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/pokedex.svg?v=7" width="100%" alt="Pokédex Nº105, Douglas Ruan, o Pokémon Guardião do Código"/>
+<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/pokedex.svg?v=8" width="100%" alt="Pokédex Nº105, Douglas Ruan, o Pokémon Guardião do Código"/>
 
-Fala, treinador! Eu sou o Douglas, co-founder do [Poke-Legacy](https://github.com/poke-legacy).
+Fala, treinador! Eu sou o Douglas.
 
 Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase sempre é de madrugada que o código sai melhor. Se me perguntar qual é o Pokémon favorito, a resposta é fácil: Shiny Marowak.
 
 ## ⚔️ Meu Time
 
-<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/party.svg?v=7" width="100%" alt="Meu time: JavaScript, Node.js, HTML/CSS, Lua, Python, Docker"/>
+<img src="https://raw.githubusercontent.com/douglasruann/douglasruann/main/assets/party.svg?v=8" width="100%" alt="Meu time: JavaScript, Node.js, HTML/CSS, Lua, Python, Docker"/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,lua,python,docker,bash,git,linux&theme=dark" alt="Tecnologias"/>
