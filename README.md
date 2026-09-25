@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Douglas Ruan — Shiny Marowak"/>
+<img src="assets/header.svg" width="100%" alt="Douglas Ruan e seu Marowak shiny"/>
 
 <img src="assets/dialog.svg" width="100%" alt="DOUGLAS RUAN usou GIT PUSH! É super efetivo!"/>
 
@@ -8,12 +8,11 @@
 
 ## ◓ Entrada da Pokédex
 
-<img src="assets/pokedex.svg" width="100%" alt="Pokédex Nº105 — Douglas Ruan, o Pokémon Guardião do Código"/>
+<img src="assets/pokedex.svg" width="100%" alt="Pokédex Nº105, Douglas Ruan, o Pokémon Guardião do Código"/>
 
-- 🦴 Criando o **Poke Idle** junto com a [@poke-legacy](https://github.com/poke-legacy)
-- 🗼 Mexendo com servidores e ferramentas de **PokeTibia**
-- 🌙 Habilidade passiva: **Coruja Noturna** (os melhores commits saem de madrugada)
-- ✨ Pokémon favorito: **Marowak Shiny**, obviamente
+Fala, treinador! Eu sou o Douglas.
+
+Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase sempre é de madrugada que o código sai melhor. Se me perguntar qual é o Pokémon favorito, a resposta é fácil: Marowak shiny.
 
 ## ⚔️ Meu Time
 
@@ -23,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,lua,python,docker,bash,git,linux&theme=dark" alt="Tecnologias"/>
 </p>
 
-## 🏥 Centro Pokémon — Estatísticas
+## 🏥 Centro Pokémon
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=douglasruann&locale=pt_BR&background=101A0C&border=396A00&stroke=396A00&ring=9CC54A&fire=DEA452&currStreakNum=E6DEDE&sideNums=E6DEDE&currStreakLabel=9CC54A&sideLabels=9CC54A&dates=7B8B73" alt="Sequência de contribuições" width="80%"/>
@@ -45,7 +44,7 @@
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/105.gif" height="80" alt="Marowak shiny"/>
 
-<sub><b>DOUGLAS RUAN salvou o jogo.</b> Obrigado pela visita, Treinador!</sub>
+<sub>Valeu pela visita! Volta sempre.</sub>
 
 <img src="https://komarev.com/ghpvc/?username=douglasruann&label=TREINADORES%20VISITANTES&color=6a9c41&style=for-the-badge" alt="Visitantes"/>
 
