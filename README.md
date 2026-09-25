@@ -10,7 +10,7 @@
 
 <img src="assets/pokedex.svg" width="100%" alt="Pokédex Nº105, Douglas Ruan, o Pokémon Guardião do Código"/>
 
-Fala, treinador! Eu sou o Douglas.
+Fala, treinador! Eu sou o Douglas, co-founder da [Poke Legacy](https://github.com/poke-legacy).
 
 Gosto de passar o tempo mexendo em servidor e ferramenta de PokeTibia, e quase sempre é de madrugada que o código sai melhor. Se me perguntar qual é o Pokémon favorito, a resposta é fácil: Shiny Marowak.
 
