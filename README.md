@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Douglas Ruan — Shiny Marowak"/>
 
-<img src="assets/dialog.svg" width="100%" alt="Um DOUGLAS RUAN shiny selvagem apareceu!"/>
+<img src="assets/dialog.svg" width="100%" alt="DOUGLAS RUAN usou GIT PUSH! É super efetivo!"/>
 
 </div>
 
